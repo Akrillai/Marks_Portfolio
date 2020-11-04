@@ -13,4 +13,4 @@ DS projects I completed as part of the Practicum's curriculum and other outside 
 * Analysed the data of a St.Petersburg based real-estate website 
 * Determined factors influencing the price of a property
 
-![](https://github.com/Akrillai/Marks_Portfolio/blob/main/images/Project2-factors.png) 
+![](/images/Project2-factors.png) 
